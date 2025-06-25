@@ -1,4 +1,4 @@
-# Warium Turret Control Mod
+# WariumComputers
 
 This mod allows you to control the aiming angles of Warium weapons using ComputerCraft. With this mod installed, all placable weapons gain the following functions:
 
